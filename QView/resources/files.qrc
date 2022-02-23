@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="input">icons/iconInputFile.png</file>
+        <file alias="output">icons/iconOutputFile.png</file>
+        <file alias="error">icons/iconErrorFile.png</file>
+        <file alias="log">icons/iconLogFile.png</file>
+        <file alias="command">icons/iconCommandFile.png</file>
+        <file alias="getqueue">icons/iconGetQueue.png</file>
+        <file alias="gethistory">icons/iconGetHistory.png</file>
+        <file alias="gettop">icons/iconGetTop.png</file>
+        <file alias="killsel">icons/iconKillSelected.png</file>
+        <file alias="killall">icons/iconKillAll.png</file>
+        <file alias="quit">icons/iconQuit.png</file>
+        <file alias="logout">icons/iconLogout.png</file>
+        <file alias="help">icons/iconHelp.png</file>
+        <file alias="geomconv">icons/iconGeometryConvergence.png</file>
+    </qresource>
+</RCC>
