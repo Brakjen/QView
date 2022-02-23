@@ -1,7 +1,7 @@
 # QView
 Simple graphical viewer for remote SLURM queues (tested on Norwegian HPCs Fram, Saga, and Betzy). Tested with Python 3.8.6.
 
-## Install requirements
+### Install requirements
 Set up a virtual environment like this
 
 ```bash
